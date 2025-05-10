@@ -1,5 +1,5 @@
 # 😃 Emotion, Age, Gender, and Face Recognition
-
+ 
 This project was developed as part of a **Deep Learning course project**.  
 We were required to upgrade an existing system — the upgrade I made was **adding emotion detection** to a project that originally performed **age, gender, and face recognition**.
 
